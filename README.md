@@ -13,3 +13,8 @@ Add icons to Obsidian attachments that match their filetype.
 **Help enhance the icon experience in Obsidian**
 
 If you have developed other CSS snippets for other filetypes, I'd be happy if you sent them to me so I could add them here.
+
+**Contributors**
+
+Thanks to:
+- *sailKite* from the Obsidian Discord for the initial CSS-code.

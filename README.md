@@ -1,5 +1,5 @@
 # obsidian-filetype-icons
-Add icons to Obsidian attachments that match their filetype.
+Add icons to [Obsidian](https://github.com/obsidianmd) attachments that match their filetype.
 
 **How to**
 1. Download the .css-files.
